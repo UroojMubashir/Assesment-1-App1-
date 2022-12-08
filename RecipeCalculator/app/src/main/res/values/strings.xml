@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Deserts Calculator</string>
+
+    <string name="instruction_title">Instructions</string>
+    <string name="instruction_message">This calculator can be used to create recipes using ingredients.</string>
+    <string name="instruction_button">Continue</string>
+    <string name="egg">egg</string>
+    <string name="cream">Cream</string>
+    <string name="clear">C</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="coffee">Coffee</string>
+    <string name="add">+</string>
+    <string name="banana">Banana</string>
+    <string name="mango">Mango</string>
+    <string name="delete">X</string>
+    <string name="oreo">Oreo</string>
+    <string name="flour">Flour</string>
+    <string name="calculate">=</string>
+    <string name="marble_cake">Marble Cake</string>
+    <string name="nutella">Nutella</string>
+</resources>
